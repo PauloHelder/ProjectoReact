@@ -1,0 +1,13 @@
+.novoprojecto_cotainer{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em
+}
+
+.novoprojecto_cotainer h1{
+    margin-bottom: .5em;
+}
+
+.novoprojecto_cotainer P{
+    color: #7b7b7b;
+}
